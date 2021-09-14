@@ -6,7 +6,7 @@ int main(){
     int b;
     int c;
 
-    cout<<"Enter two numbers to be added"<<endl;
+    cout<<"Enter two numbers to be added "<<endl;
     cin>>a;
     cin>>b;
     c=a+b;
